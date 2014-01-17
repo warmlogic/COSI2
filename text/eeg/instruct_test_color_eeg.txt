@@ -1,0 +1,44 @@
+TEST PHASE: COLOR
+
+You will now make the color/new judgments for old and new items.
+
+Again, for each old object use the keys sourceLeftKey_test (for
+"color1Name_test"/"sourceColor1Text_test") and sourceRightKey_test
+(for "color2Name_test"/"sourceColor2Text_test") to choose the color
+that framed the object during study.  For each new object, push the
+newKey_test key to say that it is "NEW" (abbreviated "newText_test").
+
+If you know it is an old object but you cannot remember the color,
+take your best guess.
+
+If you choose a color, you will then respond with one of three
+options: whether you REMEMBER seeing that COLOR framing that
+particular object ("rememColorText_test"), whether you REMEMBER some
+OTHER detail about studying the object ("rememOtherText_test"), or
+whether the object feels FAMILIAR but you can't remember any details
+about studying it ("knowText_test").  You will use the same keys:
+"rememColorText_test" is rsKey_test, "rememOtherText_test" is
+roKey_test, and "knowText_test" is kKey_test.
+
+EXAMPLE: say you saw a pie during a study list, and then you see the
+pie during test.  If you can specifically remember the color that
+framed it during the study period, you would answer REMEMBER COLOR
+("rememColorText_test", rsKey_test).  If instead you remember how
+seeing the pie at study made you hungry or something else other than
+its study frame color, you would answer REMEMBER OTHER
+("rememOtherText_test", roKey_test).  If you know you saw the pie but
+you cannot remember anything about studying it, then you would answer
+FAMILIAR ("knowText_test", kKey_test).
+
+If instead you say the object is new by answering "newText_test", you
+will say whether you are "sureText_test" about it by pressing
+sureKey_test, or that it was "maybeText_test" new by pressing
+maybeKey_test.
+
+Put one index finger on newKey_test and the other index and middle
+fingers on sourceLeftKey_test and sourceRightKey_test now, and take a
+moment to memorize the key assignments.  Please stay focused on the
+center of the screen.  Make sure you wait to respond until AFTER the
+object disappears and you see the prompt.
+
+* Please press RETURN to continue *
